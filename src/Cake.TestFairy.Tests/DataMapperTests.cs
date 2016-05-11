@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Specialized;
-using System.Runtime.InteropServices;
+﻿using System.Collections.Specialized;
 using Cake.TestFairy.Internal;
 using Cake.TestFairy.Internal.Interfaces;
 using FluentAssertions;
